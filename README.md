@@ -53,3 +53,8 @@ The project consists of several key components:
 - Face Detection: FastMTCNN
 - Face Recognition: Fine-tuned InceptionResnetV1
 - Training: Uses CrossEntropyLoss and Adam optimizer
+
+## Contributors
+- [Namit Patel](https://github.com/Namit2003)
+- Shukan Panchal
+- [Kush Patel](https://github.com/Kush2806)
