@@ -54,7 +54,10 @@ The project consists of several key components:
 - Face Recognition: Fine-tuned InceptionResnetV1
 - Training: Uses CrossEntropyLoss and Adam optimizer
 
+## Output Video
+https://drive.google.com/file/d/1TtfFJIqW03E5JM2v8KxJ0txt6Pc0oAeB/view?usp=drive_link
+
 ## Contributors
 - [Namit Patel](https://github.com/Namit2003)
-- Shukan Panchal
+- [Shukan Panchal](https://github.com/shukannnn)
 - [Kush Patel](https://github.com/Kush2806)
